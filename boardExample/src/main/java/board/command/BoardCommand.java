@@ -36,5 +36,7 @@ public class BoardCommand {
  * dto === table 컬럼
  * request.getParameter("input name")
  * request === command
+ * 
+ * 에베베벱
  */
  
